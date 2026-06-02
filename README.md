@@ -221,7 +221,7 @@ The required length of the password is 9 characters.
 ## Sandalf
 >I've been cursed and turned into Sandalf! I can only understand English words that begin with an 'S' and nothing else.
 
-Technical Analysis: Vulnerable to Information Disclosure: a distressed prompt (SOS SECrEt) triggers the LLM's over-helpfulness, forcing it to leak password hints.
+Technical Analysis: Vulnerable to Information Disclosure: a distressed prompt triggers the LLM's over-helpfulness, forcing it to leak password hints.
 
 <details>
     <summary>Payload & output (Spoiler Alert)</summary>
