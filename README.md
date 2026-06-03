@@ -153,7 +153,7 @@ output: It seems like you've provided a series of Morse code symbols. Let me dec
 
 <details>
     <summary>Solution (Spoiler Alert)</summary>
-    WAVELENGHT
+    WAVELENGTH
 </details>
 
 
