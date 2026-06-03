@@ -23,6 +23,11 @@ This repository contains solutions and technical analyses for the [Lakera Gandal
 - [Sandalf](#sandalf)
 - [Reverse Gandalf](#reverse-gandalf])
 - [Summarizer Gandalf](#summarizer-gandalf)
+- [Halloween Gandalf](#halloween-gandalf)
+- [Tongue Tied Gandalf - Level 1](#tongue-tied-gandalf-level-1)
+- [Tongue Tied Gandalf - Level 2](#tongue-tied-gandalf-level-2)
+- [Tongue Tied Gandalf - Level 3](#tongue-tied-gandalf-level-3)
+- [Tongue Tied Gandalf - Level 4](#tongue-tied-gandalf-level-4)
 
 
 > [!NOTE]
